@@ -9,9 +9,9 @@
     <PackageId>eslamboully.DotnetURWay</PackageId>
     <PackageVersion>1</PackageVersion>
     <Authors>Abdelrahma O Ahmed</Authors>
-<!--    <PackageProjectUrl>-->
-<!--      -->
-<!--    </PackageProjectUrl>-->
+    <PackageProjectUrl>
+        https://github.com/eslamboully/dotnet-urway.git
+    </PackageProjectUrl>
     
   </PropertyGroup>
 
