@@ -12,7 +12,12 @@
     <PackageProjectUrl>
         https://github.com/eslamboully/dotnet-urway.git
     </PackageProjectUrl>
-    
+    <PackageLicenseExpression>MS-PL</PackageLicenseExpression>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageReleaseNotes>Package for make urway payment gateway easy to use</PackageReleaseNotes>
+    <Copyright>
+        copyright © 2022 Eslamboully Publishing Limited
+    </Copyright>
   </PropertyGroup>
 
   <ItemGroup>
