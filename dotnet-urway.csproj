@@ -8,7 +8,7 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>Eslamboully.DotnetURWay</PackageId>
     <PackageVersion>1</PackageVersion>
-    <Authors>Abdelrahma O Ahmed</Authors>
+    <Authors>Abdelrahman O Ahmed</Authors>
     <PackageProjectUrl>
         https://github.com/eslamboully/dotnet-urway.git
     </PackageProjectUrl>
@@ -26,9 +26,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.Configuration" Version="*" />
-    <PackageReference Include="Newtonsoft.Json" Version="*" />
-    <PackageReference Include="NuGet.Packaging" Version="*" />
+      <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.*" />
+      <PackageReference Include="Newtonsoft.Json" Version="13.0.*" />
+      <PackageReference Include="NuGet.Packaging" Version="6.4.*" />
   </ItemGroup>
 
   
