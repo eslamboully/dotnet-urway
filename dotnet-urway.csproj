@@ -19,6 +19,7 @@
         copyright © 2022 Eslamboully Publishing Limited
     </Copyright>
     <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageIconUrl>mainLogo.png</PackageIconUrl>
   </PropertyGroup>
 
   <ItemGroup>
