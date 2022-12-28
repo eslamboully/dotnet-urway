@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>eslamboully.DotnetURWay</id>
+    <version>1.0.0</version>
+    <authors>Abdelrahma O Ahmed</authors>
+    <license type="expression">MS-PL</license>
+    <licenseUrl>https://licenses.nuget.org/MS-PL</licenseUrl>
+    <projectUrl>https://github.com/eslamboully/dotnet-urway.git</projectUrl>
+    <description>Package Description</description>
+    <releaseNotes>Package for make urway payment gateway easy to use</releaseNotes>
+    <copyright>copyright © 2022 Eslamboully Publishing Limited</copyright>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="7.0.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.2" exclude="Build,Analyzers" />
+        <dependency id="NuGet.Packaging" version="6.4.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/media/abdelrahman/New Volume/Projects/dotnet-urway/bin/Release/net6.0/dotnet-urway.dll" target="lib/net6.0/dotnet-urway.dll" />
+  </files>
+</package>
