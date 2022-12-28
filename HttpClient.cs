@@ -1,7 +1,10 @@
-﻿using System.Security.Cryptography;
+﻿using System;
+using System.Security.Cryptography;
 using System.Text;
 using Microsoft.Extensions.Configuration;
 using System.Collections.Generic;
+using System.Net.Http;
+using System.Threading.Tasks;
 using Newtonsoft.Json;
 using NuGet.Packaging;
 

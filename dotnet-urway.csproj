@@ -6,7 +6,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>eslamboully.DotnetURWay</PackageId>
+    <PackageId>Eslamboully.DotnetURWay</PackageId>
     <PackageVersion>1</PackageVersion>
     <Authors>Abdelrahma O Ahmed</Authors>
     <PackageProjectUrl>
